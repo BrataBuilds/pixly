@@ -15,7 +15,7 @@ This document contains the list of issues, suggestions and improvements that can
 
 ## Registration 
 >[!important] Attention
-All contributors must do the following to be eligible for MLSA X HACKTOBERFEST: 
+> All contributors must do the following to be eligible for MLSA X HACKTOBERFEST: 
 - [Star this repository](https://github.com/keploy/keploy)
 - [Register here on MLSA KIIT website](https://register.mlsakiit.com/)
 - [Register on HacktoberFest Official Website](https://hacktoberfest.com/auth/)
